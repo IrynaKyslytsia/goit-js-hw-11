@@ -5,7 +5,7 @@ import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
 const API_KEY = '34896851-0d66a9e8e3b1e7c58e0577c6f';
-const BASE_URL = 'https://pixabay.com/api'
+const BASE_URL = 'https://pixabay.com/api/'
 
 const searchForm = document.querySelector('.search-form');
 const imagesContainer = document.querySelector('.gallery');
